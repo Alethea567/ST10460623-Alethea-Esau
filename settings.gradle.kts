@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "StudentDailySteps"
+rootProject.name = "StudentStepsTracker"
 include(":app")
+ 
